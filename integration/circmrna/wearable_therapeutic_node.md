@@ -1,0 +1,1 @@
+Detailed concept for wearable closed-loop therapeutic node.
