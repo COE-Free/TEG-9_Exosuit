@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  teg-twin:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./telemetry.db:/app/telemetry.db
